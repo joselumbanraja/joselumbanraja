@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Lumbanraja</h1>
-<h3 align="center"> For Fun </h3>
+<h3 align="center">  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselumbanraja&label=Profile%20views&color=129e00&style=plastic" alt="me" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="rafael.jpg">
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lumbanrajajose@gmail.com**
 
-- ⚡ Fun fact **I think This funny Project**
+- ⚡ **IT Helpdesk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
