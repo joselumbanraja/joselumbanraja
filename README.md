@@ -50,7 +50,7 @@
 <hr/>
 <div align="center">
   
-### *<h1 align="center">💬CHECK OUT MY PROJECT BELOW💬</h1>*
+### *<h1 align="center">💬CHECK OUT MY PROJECT IN PINNED BELOW💬</h1>*
 
  </div>
 <br/>
