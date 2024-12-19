@@ -4,15 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jose+Lumbanraja!;" />
 </h1>
 
-<h3 align="center">Part of Network Management</h3>
+### *<h3 align="center">PART OF NETWORK MANAGEMENT</h3>*
 
 <br/>
 
 <div align="center">
   
-## ⚡ Fun IT
-  
-## 💬 Let's Connect With Me
+## 💬 Let's Connect With Me 
 
  </div>
  
