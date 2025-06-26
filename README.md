@@ -2,7 +2,7 @@
 <h2 align="left">Languages-Frameworks-Tools:</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,linux,javascript,kubernetes,mysql,mongodb,docker,python" /><br>
+    <img width=500 src="https://skillicons.dev/icons?i=html,css,bootstrap,php,linux,javascript,kubernetes,mysql,mongodb,docker,python" /><br>
 </div>
 
 <h2 align="center">Stats:</h2>
