@@ -1,9 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joselumbanraja.joselumbanraja" />
 
-<h2 align="center">Languages-Frameworks-Tools:</h2>
+<h2 align="left">Languages-Frameworks-Tools:</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,linux,javascript" /><br>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,linux,javascript,kubernetes,mysql,mongodb,docker,python" /><br>
 </div>
 
 <h2 align="center">Stats:</h2>
